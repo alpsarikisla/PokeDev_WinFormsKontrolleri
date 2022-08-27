@@ -1,0 +1,11 @@
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.csproj.AssemblyReference.cache
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.csproj.SuggestedBindingRedirects.cache
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.Properties.Resources.resources
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.TextBoxKontrolu.resources
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.csproj.GenerateResource.cache
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\bin\Debug\WinFormsKontrolleri.exe.config
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\bin\Debug\WinFormsKontrolleri.exe
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\bin\Debug\WinFormsKontrolleri.pdb
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.exe
+C:\Users\303\source\repos\WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.pdb

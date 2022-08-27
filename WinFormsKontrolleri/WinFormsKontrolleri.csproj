@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComboBoxKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboBoxKontrolu.Designer.cs">
+      <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TextBoxKontrolu.cs">
@@ -54,6 +60,27 @@
     <Compile Include="TextBoxKontrolu.Designer.cs">
       <DependentUpon>TextBoxKontrolu.cs</DependentUpon>
     </Compile>
+    <Compile Include="Uygulama1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uygulama1.Designer.cs">
+      <DependentUpon>Uygulama1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uygulama2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uygulama2.Designer.cs">
+      <DependentUpon>Uygulama2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Uygulama3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Uygulama3.Designer.cs">
+      <DependentUpon>Uygulama3.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ComboBoxKontrolu.resx">
+      <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -65,6 +92,15 @@
     </Compile>
     <EmbeddedResource Include="TextBoxKontrolu.resx">
       <DependentUpon>TextBoxKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uygulama1.resx">
+      <DependentUpon>Uygulama1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uygulama2.resx">
+      <DependentUpon>Uygulama2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Uygulama3.resx">
+      <DependentUpon>Uygulama3.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

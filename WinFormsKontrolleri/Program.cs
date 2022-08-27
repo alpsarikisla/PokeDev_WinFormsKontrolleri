@@ -16,7 +16,7 @@ namespace WinFormsKontrolleri
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TextBoxKontrolu());
+            Application.Run(new Uygulama3());
         }
     }
 }

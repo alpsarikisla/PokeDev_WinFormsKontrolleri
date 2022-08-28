@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComboBoxDataBound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComboBoxDataBound.Designer.cs">
+      <DependentUpon>ComboBoxDataBound.cs</DependentUpon>
+    </Compile>
     <Compile Include="ComboBoxKontrolu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,6 +84,9 @@
     <Compile Include="Uygulama3.Designer.cs">
       <DependentUpon>Uygulama3.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="ComboBoxDataBound.resx">
+      <DependentUpon>ComboBoxDataBound.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ComboBoxKontrolu.resx">
       <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
     </EmbeddedResource>
@@ -114,6 +123,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAcessLayer\DataAcessLayer.csproj">
+      <Project>{71e50224-7965-4966-a3f7-be172096ff46}</Project>
+      <Name>DataAcessLayer</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

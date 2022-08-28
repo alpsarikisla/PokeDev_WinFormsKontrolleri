@@ -1,0 +1,6 @@
+C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.AssemblyReference.cache
+C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\DataAcessLayer\obj\Debug\DataAcessLayer.csproj.CoreCompileInputs.cache
+C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

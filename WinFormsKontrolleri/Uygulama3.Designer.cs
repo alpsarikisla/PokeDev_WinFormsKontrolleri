@@ -37,13 +37,13 @@
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
             this.gb_vatandas = new System.Windows.Forms.GroupBox();
-            this.label5 = new System.Windows.Forms.Label();
             this.textBox3 = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.gb_Yabanci = new System.Windows.Forms.GroupBox();
-            this.label6 = new System.Windows.Forms.Label();
             this.comboBox2 = new System.Windows.Forms.ComboBox();
-            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
             this.gb_vatandas.SuspendLayout();
             this.gb_Yabanci.SuspendLayout();
             this.SuspendLayout();
@@ -128,6 +128,13 @@
             this.gb_vatandas.TabStop = false;
             this.gb_vatandas.Text = "TC. Vatandaşı";
             // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(117, 31);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(205, 20);
+            this.textBox3.TabIndex = 1;
+            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -136,13 +143,6 @@
             this.label5.Size = new System.Drawing.Size(80, 13);
             this.label5.TabIndex = 0;
             this.label5.Text = "TC Numaranız=";
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(117, 31);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(205, 20);
-            this.textBox3.TabIndex = 1;
             // 
             // gb_Yabanci
             // 
@@ -157,15 +157,6 @@
             this.gb_Yabanci.TabStop = false;
             this.gb_Yabanci.Text = "Yabancı Uyruklu";
             // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(47, 22);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(64, 13);
-            this.label6.TabIndex = 0;
-            this.label6.Text = "Uyruğunuz=";
-            // 
             // comboBox2
             // 
             this.comboBox2.FormattingEnabled = true;
@@ -178,6 +169,22 @@
             this.comboBox2.Size = new System.Drawing.Size(205, 21);
             this.comboBox2.TabIndex = 3;
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(47, 22);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(64, 13);
+            this.label6.TabIndex = 0;
+            this.label6.Text = "Uyruğunuz=";
+            // 
+            // textBox4
+            // 
+            this.textBox4.Location = new System.Drawing.Point(117, 53);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.Size = new System.Drawing.Size(205, 20);
+            this.textBox4.TabIndex = 1;
+            // 
             // label7
             // 
             this.label7.AutoSize = true;
@@ -187,18 +194,11 @@
             this.label7.TabIndex = 0;
             this.label7.Text = "Belge Numarası=";
             // 
-            // textBox4
-            // 
-            this.textBox4.Location = new System.Drawing.Point(117, 53);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(205, 20);
-            this.textBox4.TabIndex = 1;
-            // 
             // Uygulama3
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(373, 450);
+            this.ClientSize = new System.Drawing.Size(373, 267);
             this.Controls.Add(this.gb_Yabanci);
             this.Controls.Add(this.gb_vatandas);
             this.Controls.Add(this.comboBox1);

@@ -31,3 +31,4 @@ C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\WinFormsKontrolleri\ob
 C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.ListBoxKontrolu.resources
 C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.WebBrowserVeToolStrip.resources
 C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.PictureBoxKontrolu.resources
+C:\Users\303\Documents\GitHub\PokeDev_WinFormsKontrolleri\WinFormsKontrolleri\obj\Debug\WinFormsKontrolleri.RichTextBoxVeDialogPencereleri.resources
